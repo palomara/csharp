@@ -1,0 +1,8 @@
+C:\Users\Aluno_2\documents\visual studio 2010\Projects\exemplo\exercicio\bin\Debug\exercicio.exe
+C:\Users\Aluno_2\documents\visual studio 2010\Projects\exemplo\exercicio\bin\Debug\exercicio.pdb
+C:\Users\Aluno_2\documents\visual studio 2010\Projects\exemplo\exercicio\obj\x86\Debug\exercicio.exe
+C:\Users\Aluno_2\documents\visual studio 2010\Projects\exemplo\exercicio\obj\x86\Debug\exercicio.pdb
+F:\2modulo\dscsharp\exercicio\obj\x86\Debug\exercicio.exe
+F:\2modulo\dscsharp\exercicio\obj\x86\Debug\exercicio.pdb
+F:\2modulo\dscsharp\exercicio\bin\Debug\exercicio.exe
+F:\2modulo\dscsharp\exercicio\bin\Debug\exercicio.pdb
