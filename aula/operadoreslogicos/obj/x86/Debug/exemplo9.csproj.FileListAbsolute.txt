@@ -1,0 +1,4 @@
+F:\Drive\2modulo\dscsharp\aula\exemplo1\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe
+F:\Drive\2modulo\dscsharp\aula\exemplo1\ConsoleApplication2\bin\Debug\ConsoleApplication2.pdb
+F:\Drive\2modulo\dscsharp\aula\exemplo1\ConsoleApplication2\obj\x86\Debug\ConsoleApplication2.exe
+F:\Drive\2modulo\dscsharp\aula\exemplo1\ConsoleApplication2\obj\x86\Debug\ConsoleApplication2.pdb

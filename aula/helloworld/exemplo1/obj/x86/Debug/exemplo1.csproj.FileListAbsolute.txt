@@ -1,0 +1,4 @@
+F:\Drive\2modulo\dscsharp\aula\exemplo1\exemplo1\bin\Debug\exemplo1.exe
+F:\Drive\2modulo\dscsharp\aula\exemplo1\exemplo1\bin\Debug\exemplo1.pdb
+F:\Drive\2modulo\dscsharp\aula\exemplo1\exemplo1\obj\x86\Debug\exemplo1.exe
+F:\Drive\2modulo\dscsharp\aula\exemplo1\exemplo1\obj\x86\Debug\exemplo1.pdb
