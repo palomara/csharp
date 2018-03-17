@@ -1,0 +1,4 @@
+F:\Drive\2modulo\dscsharp\aula\Exercícios\ConsoleApplication6\bin\Debug\ConsoleApplication6.exe
+F:\Drive\2modulo\dscsharp\aula\Exercícios\ConsoleApplication6\bin\Debug\ConsoleApplication6.pdb
+F:\Drive\2modulo\dscsharp\aula\Exercícios\ConsoleApplication6\obj\x86\Debug\ConsoleApplication6.exe
+F:\Drive\2modulo\dscsharp\aula\Exercícios\ConsoleApplication6\obj\x86\Debug\ConsoleApplication6.pdb
