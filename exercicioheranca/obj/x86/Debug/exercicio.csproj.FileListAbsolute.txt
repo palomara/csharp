@@ -6,3 +6,7 @@ F:\2modulo\dscsharp\exercicio\obj\x86\Debug\exercicio.exe
 F:\2modulo\dscsharp\exercicio\obj\x86\Debug\exercicio.pdb
 F:\2modulo\dscsharp\exercicio\bin\Debug\exercicio.exe
 F:\2modulo\dscsharp\exercicio\bin\Debug\exercicio.pdb
+F:\gitrepositorios\csharpetec\exercicioheranca\obj\x86\Debug\exercicio.exe
+F:\gitrepositorios\csharpetec\exercicioheranca\obj\x86\Debug\exercicio.pdb
+F:\gitrepositorios\csharpetec\exercicioheranca\bin\Debug\exercicio.exe
+F:\gitrepositorios\csharpetec\exercicioheranca\bin\Debug\exercicio.pdb

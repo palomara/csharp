@@ -21,6 +21,10 @@ namespace exercicio
         {
             this.corPena = corPena;
         }
+        public override void locomover()
+        {
+            Console.WriteLine("Voando");
+        }
         public override string ToString()
         {
             return "Ave{" + "cor da pena:" + corPena + '}';

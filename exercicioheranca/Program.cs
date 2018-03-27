@@ -9,36 +9,50 @@ namespace exercicio
     {
         static void Main(string[] args)
         {
-            Animal animal1 = new Animal();
-            Animal animal2 = new Animal();
-            Animal animal3 = new Animal();
-            Mamifero mamifero1 = new Mamifero();
-            Reptil reptil1 = new Reptil();
-            Ave ave1 = new Ave();
+           
+            Mamifero gato = new Mamifero();
+            Reptil cobra = new Reptil();
+            Ave papagaio = new Ave();
+            Canguru canguru = new Canguru();
+            Cachorro cao = new Cachorro();
+            Tartaruga tartaruga = new Tartaruga();
+            Tucano tucano = new Tucano();
 
+            gato.setCorPelo("Marrom");
+            gato.setIdade(7);
+            gato.setMembros(3);
+            gato.setPeso(6.05f);
+            gato.setRaca("Siamês");
 
-            animal1.setPeso (68f);
-            animal1.setIdade(4);
-            animal1.setMembros(3);
-            animal2.setPeso(23f);
-            animal2.setIdade(3);
-            animal2.setMembros(5);
-            animal3.setPeso(4f);
-            animal3.setIdade(2);
-            animal3.setMembros(6);
-            mamifero1.setCorPelo("Marrom");
-            mamifero1.setRaca("Siamês");
-            reptil1.setCorEscama("Verde");
-            ave1.setCorPena("Branca");
+            cobra.setCorEscama("Verde");
+            cobra.setIdade(9);
+            cobra.setPeso(4.3f);
+            cobra.setMembros(8);
 
-            Console.WriteLine(animal1.ToString());
-            Console.WriteLine(animal2.ToString());
-            Console.WriteLine(animal3.ToString());
-            Console.WriteLine(mamifero1.ToString());
-            Console.WriteLine(reptil1.ToString());
-            Console.WriteLine(ave1.ToString());
-            
+            papagaio.setCorPena("Verde");
+            papagaio.setIdade(12);
+            papagaio.setMembros(3);
+            papagaio.setPeso(3.08f);
 
+            Console.Write("Canguru:\n");
+            canguru.usarbolsa();
+            canguru.locomover();
+
+            Console.Write("\nCachorro:\n");
+            cao.enterrarOsso();
+            cao.abanarRabo();
+
+            Console.Write("\n\nTartaruga:\n");
+            tartaruga.locomover();
+
+            Console.WriteLine(gato.ToString());
+            gato.locomover();
+            Console.WriteLine(cobra.ToString());
+            cobra.alimentar();
+            cobra.locomover();
+            Console.WriteLine(papagaio.ToString());
+            papagaio.fazerNinho();
+            papagaio.locomover();
 
             Console.ReadKey();
 
