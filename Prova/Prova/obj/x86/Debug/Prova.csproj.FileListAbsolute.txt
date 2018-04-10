@@ -1,0 +1,4 @@
+F:\Drive\2modulo\dscsharp\aula\Prova\Prova\bin\Debug\Prova.exe
+F:\Drive\2modulo\dscsharp\aula\Prova\Prova\bin\Debug\Prova.pdb
+F:\Drive\2modulo\dscsharp\aula\Prova\Prova\obj\x86\Debug\Prova.exe
+F:\Drive\2modulo\dscsharp\aula\Prova\Prova\obj\x86\Debug\Prova.pdb
