@@ -1,0 +1,16 @@
+F:\gitrepositorios\Menus\Menus\bin\Debug\Menus.exe
+F:\gitrepositorios\Menus\Menus\bin\Debug\Menus.pdb
+F:\gitrepositorios\Menus\Menus\obj\x86\Debug\Menus.frmMenu.resources
+F:\gitrepositorios\Menus\Menus\obj\x86\Debug\Menus.frmTeste1.resources
+F:\gitrepositorios\Menus\Menus\obj\x86\Debug\Menus.Properties.Resources.resources
+F:\gitrepositorios\Menus\Menus\obj\x86\Debug\Menus.csproj.GenerateResource.Cache
+F:\gitrepositorios\Menus\Menus\obj\x86\Debug\Menus.exe
+F:\gitrepositorios\Menus\Menus\obj\x86\Debug\Menus.pdb
+G:\gitrepositorios\Menus\Menus\obj\x86\Debug\Menus.exe
+G:\gitrepositorios\Menus\Menus\obj\x86\Debug\Menus.pdb
+G:\gitrepositorios\Menus\Menus\bin\Debug\Menus.exe
+G:\gitrepositorios\Menus\Menus\bin\Debug\Menus.pdb
+G:\gitrepositorios\Menus\Menus\obj\x86\Debug\Menus.frmMenu.resources
+G:\gitrepositorios\Menus\Menus\obj\x86\Debug\Menus.frmTeste1.resources
+G:\gitrepositorios\Menus\Menus\obj\x86\Debug\Menus.Properties.Resources.resources
+G:\gitrepositorios\Menus\Menus\obj\x86\Debug\Menus.csproj.GenerateResource.Cache
