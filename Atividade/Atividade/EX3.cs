@@ -17,24 +17,38 @@ namespace Atividade
         }
 
         private void btnChecar_Click(object sender, EventArgs e)
-        {   
+        {
             double a = System.Convert.ToDouble(txbA.Text);
             double b = System.Convert.ToDouble(txbB.Text);
             double c = System.Convert.ToDouble(txbC.Text);
 
-            if (a == b && a == c && b == c) {
-                lblResult.Text = "Triangulo Equilátero – possui os três lados com medidas iguais";
-            }
-            else if (a == b && a == c && c != a || a != b && b == c && c == a || b != c && a == b && a == c)
+            if ((b - c) < a && a < (b + c))
             {
-                lblResult.Text = "Triangulo Isósceles – possui dois lados com medidas iguais";
+                if ((a - c) < b && b < (a + c))
+                {
+                    if ((a - b) < c && c < (a + b))
+                    {
+                        if (a == b && b == c)
+                        {
+                            lblResult.Text = "Triângulo Equilátero";
+                        }
 
+                        else if (a == b || b == c || c == a)
+                        {
+                             lblResult.Text = "Triângulo Isósceles" ;
+                        }
+
+                        else
+                        {
+                            lblResult.Text = "Triângulo Escaleno";
+                        }
+                    }
+                }
             }
-            else if ( a != b && b!= c &&  a != c) {
-                lblResult.Text = "Triangulo Escaleno – possui os três lados com medidas diferentes.";
-            }
-            else {
-                lblResult.Text = "Não forma um triângulo.";
+
+            else
+            {
+                lblResult.Text = "Não forma um triângulo!";
             }
         }
     }

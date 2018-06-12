@@ -89,12 +89,13 @@
             // 
             // btnChecar
             // 
+            this.btnChecar.BackColor = System.Drawing.Color.Lavender;
             this.btnChecar.Location = new System.Drawing.Point(16, 159);
             this.btnChecar.Name = "btnChecar";
             this.btnChecar.Size = new System.Drawing.Size(75, 23);
             this.btnChecar.TabIndex = 6;
             this.btnChecar.Text = "Checar";
-            this.btnChecar.UseVisualStyleBackColor = true;
+            this.btnChecar.UseVisualStyleBackColor = false;
             this.btnChecar.Click += new System.EventHandler(this.btnChecar_Click);
             // 
             // lblTitulo
@@ -110,16 +111,18 @@
             // lblResult
             // 
             this.lblResult.AutoSize = true;
-            this.lblResult.Location = new System.Drawing.Point(22, 213);
+            this.lblResult.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.lblResult.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblResult.Location = new System.Drawing.Point(16, 205);
             this.lblResult.Name = "lblResult";
-            this.lblResult.Size = new System.Drawing.Size(16, 13);
+            this.lblResult.Size = new System.Drawing.Size(2, 19);
             this.lblResult.TabIndex = 8;
-            this.lblResult.Text = "= ";
             // 
             // EX3
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.BackColor = System.Drawing.Color.MediumPurple;
             this.ClientSize = new System.Drawing.Size(345, 243);
             this.Controls.Add(this.lblResult);
             this.Controls.Add(this.lblTitulo);

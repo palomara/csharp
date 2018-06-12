@@ -10,3 +10,18 @@ C:\Users\Aluno\documents\visual studio 2010\Projects\Atividade\Atividade\obj\x86
 C:\Users\Aluno\documents\visual studio 2010\Projects\Atividade\Atividade\obj\x86\Debug\Atividade.EX3.resources
 C:\Users\Aluno\documents\visual studio 2010\Projects\Atividade\Atividade\obj\x86\Debug\Atividade.EX4.resources
 C:\Users\Aluno\documents\visual studio 2010\Projects\Atividade\Atividade\obj\x86\Debug\Atividade.EX7.resources
+F:\gitrepositorios\csharpetec\Atividade\Atividade\obj\x86\Debug\Atividade.exe
+F:\gitrepositorios\csharpetec\Atividade\Atividade\obj\x86\Debug\Atividade.pdb
+F:\gitrepositorios\csharpetec\Atividade\Atividade\bin\Debug\Atividade.exe
+F:\gitrepositorios\csharpetec\Atividade\Atividade\bin\Debug\Atividade.pdb
+F:\gitrepositorios\csharpetec\Atividade\Atividade\obj\x86\Debug\Atividade.EX1.resources
+F:\gitrepositorios\csharpetec\Atividade\Atividade\obj\x86\Debug\Atividade.EX2.resources
+F:\gitrepositorios\csharpetec\Atividade\Atividade\obj\x86\Debug\Atividade.EX3.resources
+F:\gitrepositorios\csharpetec\Atividade\Atividade\obj\x86\Debug\Atividade.EX4.resources
+F:\gitrepositorios\csharpetec\Atividade\Atividade\obj\x86\Debug\Atividade.EX7.resources
+F:\gitrepositorios\csharpetec\Atividade\Atividade\obj\x86\Debug\Atividade.fmJanela.resources
+F:\gitrepositorios\csharpetec\Atividade\Atividade\obj\x86\Debug\Atividade.Properties.Resources.resources
+F:\gitrepositorios\csharpetec\Atividade\Atividade\obj\x86\Debug\Atividade.csproj.GenerateResource.Cache
+F:\gitrepositorios\csharpetec\Atividade\Atividade\obj\x86\Debug\Atividade.csprojResolveAssemblyReference.cache
+F:\gitrepositorios\csharpetec\Atividade\Atividade\obj\x86\Debug\Atividade.EX5.resources
+F:\gitrepositorios\csharpetec\Atividade\Atividade\obj\x86\Debug\Atividade.EX6.resources

@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(EX1));
             this.lblValor1 = new System.Windows.Forms.Label();
             this.lblValor2 = new System.Windows.Forms.Label();
             this.txbValorA = new System.Windows.Forms.TextBox();
@@ -56,6 +57,7 @@
             // 
             // txbValorA
             // 
+            this.txbValorA.BackColor = System.Drawing.SystemColors.Window;
             this.txbValorA.Location = new System.Drawing.Point(100, 35);
             this.txbValorA.Name = "txbValorA";
             this.txbValorA.Size = new System.Drawing.Size(100, 20);
@@ -91,6 +93,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.BackColor = System.Drawing.SystemColors.Menu;
             this.ClientSize = new System.Drawing.Size(339, 185);
             this.Controls.Add(this.lblRSoma);
             this.Controls.Add(this.btnSomar);
@@ -98,6 +101,7 @@
             this.Controls.Add(this.txbValorA);
             this.Controls.Add(this.lblValor2);
             this.Controls.Add(this.lblValor1);
+            this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "EX1";
             this.Text = "EX1";
             this.ResumeLayout(false);

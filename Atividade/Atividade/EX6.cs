@@ -15,5 +15,27 @@ namespace Atividade
         {
             InitializeComponent();
         }
+
+        private void btnQtd_Click(object sender, EventArgs e)
+        {
+            double qtd = System.Convert.ToDouble(TxbQtd.Text);
+            lblResult.Text = "";
+
+            for (int i = 1; i <= qtd; i++)
+            {
+                if (lblResult.Text == "")
+                {
+                    lblResult.Text = "Brasil" + "\n";
+                }
+                else
+                {
+                    lblResult.Text = lblResult.Text + "Brasil" + "\n";
+                }
+
+            }
+
+
+        }
+
     }
 }

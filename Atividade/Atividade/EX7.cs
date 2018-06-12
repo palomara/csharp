@@ -16,19 +16,19 @@ namespace Atividade
             InitializeComponent();
         }
 
-        private void button1_Click(object sender, EventArgs e)
+        private void btnDesc_Click(object sender, EventArgs e)
         {
             double a = 1.50, m = 1.10;
             int i = 0;
-            while(m<a){
+            while (m < a)
+            {
                 i++;
 
                 a = a + 0.2;
                 m = m + 0.3;
             }
 
-            label1.Text = "em " + i.ToString() + " alcançou " + m.ToString() ;
-
+            lblResposta.Text = "Em " + System.Convert.ToString(i) + " anos, Manoel será maior, alcançando " + m + " metros de altura.\nArlindo estará com " + a + " metros.";
         }
 
     }

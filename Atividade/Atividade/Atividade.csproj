@@ -108,6 +108,12 @@
     <EmbeddedResource Include="EX4.resx">
       <DependentUpon>EX4.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="EX5.resx">
+      <DependentUpon>EX5.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EX6.resx">
+      <DependentUpon>EX6.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="EX7.resx">
       <DependentUpon>EX7.cs</DependentUpon>
     </EmbeddedResource>

@@ -73,16 +73,17 @@
             // lblDivR
             // 
             this.lblDivR.AutoSize = true;
-            this.lblDivR.Location = new System.Drawing.Point(117, 124);
+            this.lblDivR.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.lblDivR.Location = new System.Drawing.Point(29, 153);
             this.lblDivR.Name = "lblDivR";
-            this.lblDivR.Size = new System.Drawing.Size(0, 13);
+            this.lblDivR.Size = new System.Drawing.Size(2, 15);
             this.lblDivR.TabIndex = 6;
             // 
             // EX2
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(284, 179);
+            this.ClientSize = new System.Drawing.Size(238, 189);
             this.Controls.Add(this.lblDivR);
             this.Controls.Add(this.lblDiv);
             this.Controls.Add(this.btnVerificar);
